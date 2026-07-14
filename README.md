@@ -9,7 +9,7 @@ I'm a Full Stack Developer with expertise in building robust and scalable web ap
 
 - **Frontend**: HTML, CSS, JavaScript, React.js, Redux, Bootstrap, Material-UI, TailwindCSS
 - **Backend**: Node.js, Express.js, MongoDB, Mongoose, RESTful APIs
-- **Database**: MongoDB, MySQL, PostgreSQL
+- **Database**: MongoDB, Firebase, SupaBase
 - **Tools & Technologies**: Git, GitHub, VS Code, npm, Webpack, Heroku
 
 ## Projects
