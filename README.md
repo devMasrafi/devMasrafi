@@ -1,5 +1,7 @@
 **👋 Hi, I’m @devMasrafi Full Stack MERN Developer**
-Welcome to my GitHub profile dedicated to Full Stack MERN (MongoDB, Express.js, React.js, Node.js) & React Native Mobile development! 🚀
+Welcome to my GitHub profile Full Stack Developement details and tests of Language Framework and Different Library will be given here.
+
+PS: most are not comleted and are old code's and the recent ones are the well thoght and brought out codes of my current work.
 
 ## 👀 About Me
 
@@ -7,7 +9,7 @@ I'm a Full Stack Developer with expertise in building robust and scalable web ap
 
 ## 🌱 Skills
 
-- **Frontend**: HTML, CSS, JavaScript, React.js, Redux, Bootstrap, Material-UI, TailwindCSS
+- **Frontend**: HTML, CSS, JavaScript, React.js, TailwindCSS, NextJs, Wordpress 
 - **Backend**: Node.js, Express.js, MongoDB, Mongoose, RESTful APIs
 - **Database**: MongoDB, Firebase, SupaBase
 - **Tools & Technologies**: Git, GitHub, VS Code, npm, Webpack, Heroku
@@ -20,11 +22,9 @@ I'm open to collaboration and contributions. If you find any issues or have sugg
 
 ## 📫 Connect with Me
 
-- **LinkedIn**: (https://www.linkedin.com/in/masrafi-mondol/)
+- **LinkedIn**: https://www.linkedin.com/in/devmasrafi/
 - **Email**: masrafisw@gmail.com
 - **Portfolio**: https://devmasrafi.netlify.app/
-
-Let's connect and build amazing things together! 🌟
 
 
 <!---
